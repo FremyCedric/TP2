@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-body{
-	font-family: "Roboto";
-}
+
 .col-6{
 	margin-bottom: 2rem;
 }
@@ -74,7 +72,7 @@ body{
 
 #news
 {
-	float: left;
+	/* float: left; */
 	padding: 20px;
 	margin: 20px;
 	border-radius: 10px;
