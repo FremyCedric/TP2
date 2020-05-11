@@ -2,18 +2,18 @@
 
 Voici le github pour le travail du groupe B !
 
-Voici quelques indications pour vous retrouver : 
+Voici quelques indications pour vous retrouver :
 
- -1- Le CSS n'est pas à modifier
- 
- -2- Comment modifier votre travail ? 
+- 1- Le CSS n'est pas à modifier
+
+- 2- Comment modifier votre travail ? 
       C'est simple !
-      Vous allez voir une répétition du même code, vous avez juste à modifier le 
-      commentaire par votre nom, modifier le h2 (titre) ainsi que le paragraphe (p) 
-      et la source de votre article : 
-      
-      
-      
+      Vous allez voir une répétition du même code, vous avez juste à modifier le
+      commentaire par votre nom, modifier le h2 (titre) ainsi que le paragraphe (p)
+      et la source de votre article :
+
+
+
     <!-- Travail de : ______________ -->
     <div class="col-6">
       <div id="news">
