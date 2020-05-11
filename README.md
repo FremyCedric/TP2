@@ -1,10 +1,12 @@
-# TP2
-Bonjour à vous GROUPE B2 de MMI de Lens, voici le github pour le travail de groupe !
+# TP2 - Indication
+
+Voici le github pour le travail du groupe B !
 
 Voici quelques indications pour vous retrouver : 
- 1- Le CSS n'est pas à modifier
+
+ -1- Le CSS n'est pas à modifier
  
- 2- Comment modifier votre travail ? 
+ -2- Comment modifier votre travail ? 
       C'est simple !
       Vous allez voir une répétition du même code, vous avez juste à modifier le 
       commentaire par votre nom, modifier le h2 (titre) ainsi que le paragraphe (p) 
@@ -12,7 +14,7 @@ Voici quelques indications pour vous retrouver :
       
       
       
-          <!-- Travail de : ______________ -->
+    <!-- Travail de : ______________ -->
     <div class="col-6">
       <div id="news">
         <h2>
