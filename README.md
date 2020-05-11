@@ -1,12 +1,12 @@
 # TP2 - Indication
 
-Voici le github pour le travail du groupe B !
+Voici le github pour le travail du **groupe B** !
 
 Voici quelques indications pour vous retrouver :
 
 - 1- Le CSS n'est pas à modifier
 
-- 2- Comment modifier votre travail ? 
+- 2- Comment modifier votre travail ?
       C'est simple !
       Vous allez voir une répétition du même code, vous avez juste à modifier le
       commentaire par votre nom, modifier le h2 (titre) ainsi que le paragraphe (p)
@@ -14,6 +14,7 @@ Voici quelques indications pour vous retrouver :
 
 
 
+    ```Html
     <!-- Travail de : ______________ -->
     <div class="col-6">
       <div id="news">
@@ -27,3 +28,4 @@ Voici quelques indications pour vous retrouver :
         </h3>
       </div>
     </div>
+    ```
